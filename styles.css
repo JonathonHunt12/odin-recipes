@@ -1,0 +1,14 @@
+body {background-color: #FFFDD0;
+color: #3DCAB5;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+p {color: grey;}
+
+li {color: grey;}
+
+h2 {text-decoration: underline;}
+
+img {width: 500px; height: auto;}
+
+.bc-img {height: 500px; width: auto;}
